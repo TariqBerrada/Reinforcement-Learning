@@ -1,0 +1,7 @@
+*.pth.tar
+*.png
+*.mp4
+*.json
+*.pkl
+**/__pycache__
+**/tmp
